@@ -5,3 +5,4 @@ import numpy as np
 #测试
 print('hello world')
 print('hello 你好哇')
+print('hello darling')
